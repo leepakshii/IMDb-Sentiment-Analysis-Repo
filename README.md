@@ -16,6 +16,11 @@ The goal is to classify reviews as **positive** or **negative** using NLP techni
 - `notebooks/` → Jupyter notebook with code
 - `requirements.txt` → dependencies
 - `README.md` → documentation
+## Dataset
+The dataset is too large to upload on GitHub.  
+Download from Kaggle: [IMDb Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+
+Place the dataset inside the `data/` folder before running the notebook.
 
 ##  Key Steps
 1. Data cleaning and text preprocessing (stopwords removal, stemming, tokenization)
